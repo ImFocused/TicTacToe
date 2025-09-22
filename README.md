@@ -4,14 +4,14 @@ A simple web-based Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
 
 
-Demo :
+# Demo :
 
 
 Play online here: https://imfocused.github.io/TicTacToe/
 
 
 
-Features :
+# Features :
 
 
 Classic 3×3 Tic Tac Toe board
@@ -24,7 +24,7 @@ Displays winner or draw
 
 
 
-Getting Started :
+# Getting Started :
 
 
 Clone the repository:
@@ -37,7 +37,7 @@ Open index.html in any modern web browser.
 
 
 
-Usage :
+# Usage :
 
 
 Players take turns placing X and O.
@@ -50,7 +50,7 @@ Click the Reset/New Game button to start again.
 
 
 
-Project Structure :
+# Project Structure :
 
 
 index.html → main HTML file
@@ -59,7 +59,7 @@ script.js → game logic
 
 
 
-How it Works :
+# How it Works :
 
 
 A turn tracker decides which player’s move it is.
@@ -74,7 +74,7 @@ Reset clears the board for a new round.
 
 
 
-Future Improvements :
+# Future Improvements :
 
 
 Single-player mode with AI
