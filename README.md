@@ -1,4 +1,4 @@
-Tic Tac Toe
+# Tic Tac Toe
 
 A simple web-based Tic Tac Toe game implemented using HTML, CSS, and JavaScript. Playable directly in the browser.
 
